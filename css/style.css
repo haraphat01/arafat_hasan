@@ -1,0 +1,22 @@
+@media screen and (max-width: 1000px) {
+    .body{
+ 
+
+    background-color: chartreuse;
+    }
+  }
+
+  #welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkkhaki;
+    height: 100vh;
+
+
+  }
+  
+
+
+    
